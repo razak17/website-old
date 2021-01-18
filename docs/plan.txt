@@ -1,0 +1,39 @@
+System Design Architecture
+
+- Nav
+  - links
+    - about
+    - contact
+    - projects
+  - Menu
+    - links
+      - about
+      - contact
+      - projects
+
+- Footer
+  - Name
+  - Current year
+
+- Home page
+  - Banner
+    - intro
+    - Contact button
+    - work / projects button
+  - About section
+    - tech stack
+  - Projects section
+    - image
+    - description
+    - tech stack
+    - external links
+      - github
+      -? demo
+  - Contact section
+    - form
+
+- Projects list
+- Project detail page
+
+- Blog
+- Blog details
