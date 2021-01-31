@@ -14,5 +14,6 @@ export const textStyles = {
     background: "#cdcdcd",
     borderRadius: "3px",
     zIindex: 1,
+    backgroundColor: "white"
   },
 };

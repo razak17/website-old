@@ -1,10 +1,5 @@
 module.exports = {
   siteMetadata: {
-<<<<<<< HEAD
-    title: "razakmo",
-  },
-  plugins: [],
-=======
     title: "Razak Mo",
     description: `Personal Website for Razak Mo.`,
     siteUrl: "https://razakmo.tech",
@@ -50,5 +45,4 @@ module.exports = {
       },
     },
   ],
->>>>>>> dev
 };
